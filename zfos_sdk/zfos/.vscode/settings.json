@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "zf_uart.h": "c",
+        "drivers.h": "c",
+        "zf_i2c.h": "c",
+        "bsp.h": "c",
+        "zfos.h": "c",
+        "zfos_conf.h": "c",
+        "components.h": "c",
+        "devices.h": "c",
+        "zf_common.h": "c",
+        "led.h": "c",
+        "zf_gpio.h": "c",
+        "zf_spi.h": "c"
+    }
+}
